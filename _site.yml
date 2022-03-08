@@ -11,3 +11,5 @@ navbar:
       href: datawrag2.html
     - text: "Neural Network"
       href: tf.html
+    - text: "Additional Work"
+      href: https://github.com/jasonrupp
